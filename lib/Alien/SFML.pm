@@ -3,7 +3,7 @@ package Alien::SFML;
 use strict;
 use warnings;
 
-our $VERSION = 0.0101;    #For SFML 2.0 RC
+our $VERSION = 0.02;    #For SFML 2.0
 $VERSION = eval $VERSION;
 
 use parent 'Alien::Base';

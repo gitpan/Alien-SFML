@@ -19,7 +19,7 @@ Perl
 Alien::Base
 Alien::CMake
 
-If you are on linux, you will need dev packages for:
+If you are on linux, you will need (according to the SFML website) dev packages for:
 
     pthread
     opengl
@@ -60,3 +60,4 @@ for it, under the SFML module.
 CHANGES:
 
 V0.0101 - Added CMake dependancy
+V0.02	- Upgrade to SFML 2.0
